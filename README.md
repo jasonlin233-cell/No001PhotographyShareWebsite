@@ -27,6 +27,7 @@
 - 视频素材：用户可以浏览和搜索网站上的视频素材。
 
 【用户】:
+---
 - 个人中心：用户可以查看和编辑个人信息。
 - 活动收藏：用户可以收藏自己感兴趣的活动。
 - 活动留言：用户可以在活动页面中留言和评论。
@@ -38,6 +39,7 @@
 
 
 二、项目技术
+---
 - 编程语言：Java
 - 数据库：MySQL
 - 项目管理工具：Maven
@@ -45,6 +47,7 @@
 - 后端技术：Spring、SpringMVC、MyBatis
 
 三、运行环境
+---
 - 操作系统：Windows、macOS都可以
 - JDK版本：JDK1.8以上都可以
 - 开发工具：IDEA、Ecplise、Myecplise都可以
@@ -53,7 +56,7 @@
 - Maven：任意版本都可以
 
 四、运行截图
-
+---
 ![image_readme/1.png](https://github.com/jasonlin233-cell/youguangsheyingwz/blob/main/image_readme/1.png)
 
 ![image_readme/1.png](https://github.com/jasonlin233-cell/youguangsheyingwz/blob/main/image_readme/2.png)
