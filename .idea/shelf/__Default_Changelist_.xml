@@ -1,0 +1,14 @@
+<changelist name="在变基之前未提交的更改_[Default_Changelist]" date="1727246600626" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="在变基之前未提交的更改 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/annotation/APPLoginUser.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Default_Changelist]/APPLoginUser.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="out/artifacts/youguangsheyingwz_war_exploded/WEB-INF/classes/com/annotation/APPLoginUser.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在变基之前未提交的更改_[Default_Changelist]/APPLoginUser1.class" />
+  </binary>
+</changelist>
