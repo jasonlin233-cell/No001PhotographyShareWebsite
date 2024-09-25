@@ -52,4 +52,4 @@
 - Maven：任意版本都可以
 
 四、运行截图
-![] (image_readme/1.png)
+![image_readme/1.png](https://github.com/jasonlin233-cell/youguangsheyingwz/blob/main/image_readme/1.png)
