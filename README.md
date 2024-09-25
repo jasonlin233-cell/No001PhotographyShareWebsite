@@ -52,4 +52,4 @@
 - Maven：任意版本都可以
 
 四、运行截图
-![alt text] (https://github.com/jasonlin233-cell/youguangsheyingwz/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/1.png)
+![] (%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/1.png)
