@@ -1,2 +1,74 @@
 # youguangsheyingwz
 # 123
+一、项目介绍
+基于springboot框架实现的“有光”摄影分享网站，系统包含两种角色：管理员、用户,系统分为前台和后台两大模块，主要功能如下。
+
+【管理员】:
+- 个人中心: 管理员可以查看和编辑个人信息。
+- 管理员管理: 管理员可以对其他管理员进行管理，
+- 用户管理: 管理员可以对用户进行管理，
+- 图片素材管理: 管理员可以管理网站上的图片素材，
+- 视频素材管理: 管理员可以管理网站上的视频素材，
+- 活动管理：管理员可以创建、编辑和删除活动，
+- 活动报名管理：管理员可以查看和管理用户对活动的报名情况，
+- 基础数据管理：管理员可以管理网站的基础数据，。
+- 论坛管理：管理员可以管理网站的论坛板块。
+- 公告资讯管理：管理员可以管理网站的公告资讯。
+
+【前台】:
+- 首页：展示网站的精选内容和最新活动信息，。
+- 论坛：用户可以在论坛板块中发帖、回帖。
+- 活动：用户可以浏览和参加网站上发布的各类摄影相关活动。
+- 公告资讯：用户可以查阅网站发布的摄影行业资讯和公告信息。
+- 图片素材：用户可以浏览和搜索网站上的图1
+
+片素材。
+- 视频素材：用户可以浏览和搜索网站上的视频素材。
+
+【用户】:
+- 个人中心：用户可以查看和编辑个人信息。
+- 活动收藏：用户可以收藏自己感兴趣的活动。
+- 活动留言：用户可以在活动页面中留言和评论，。
+- 活动报名：用户可以报名参加感兴趣的活动。
+- 图片素材收藏：用户可以收藏喜欢的图片素材。
+- 图片素材留言：用户可以在图片素材页面中留言和评论。
+- 视频素材收藏：用户可以收藏喜欢的视频素材。
+- 视频素材留言：用户可以在视频素材页面中留言和评论。
+
+
+二、项目技术
+编程语言：Java
+数据库：MySQL
+项目管理工具：Maven
+前端技术：HTML、CSS、JavaScript、Jquery
+后端技术：Spring、SpringMVC、MyBatis
+
+三、运行环境
+操作系统：Windows、macOS都可以
+JDK版本：JDK1.8以上都可以
+开发工具：IDEA、Ecplise、Myecplise都可以
+数据库: MySQL5.7以上都可以
+Tomcat：任意版本都可以
+Maven：任意版本都可以
+
+*****************************************************
+
+前台登录页面
+http://localhost:8080/youguangsheyingwz/front/index.html
+
+后台登录页面
+http://localhost:8080/youguangsheyingwz/admin/dist/index.html
+
+管理员				账户:admin 		密码：admin
+用户				账户:a1 		密码：123456
+用户				账户:a2 		密码：123456
+用户				账户:a3 		密码：123456
+
+在src\main\resources\application.yml中编辑
+
+	url: jdbc:mysql://127.0.0.1:3306/youguangsheyingwz?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8
+	username: root	    数据库用户名 root
+	password: 123456	用户密码    123456
+
+
+图片存放路径： src\main\webapp\upload 里面上传图片名里面不能有中文
