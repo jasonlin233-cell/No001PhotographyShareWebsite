@@ -1,4 +1,4 @@
-毕业设计-“有光”摄影分享网站
+毕业设计 - “有光”摄影分享网站
 
 一、项目介绍
 基于springboot框架实现的“有光”摄影分享网站，系统包含两种角色：管理员、用户,系统分为前台和后台两大模块，主要功能如下。
@@ -37,19 +37,19 @@
 
 
 二、项目技术
-编程语言：Java
-数据库：MySQL
-项目管理工具：Maven
-前端技术：HTML、CSS、JavaScript、Jquery
-后端技术：Spring、SpringMVC、MyBatis
+- 编程语言：Java
+- 数据库：MySQL
+- 项目管理工具：Maven
+- 前端技术：HTML、CSS、JavaScript、Jquery
+- 后端技术：Spring、SpringMVC、MyBatis
 
 三、运行环境
-操作系统：Windows、macOS都可以
-JDK版本：JDK1.8以上都可以
-开发工具：IDEA、Ecplise、Myecplise都可以
-数据库: MySQL5.7以上都可以
-Tomcat：任意版本都可以
-Maven：任意版本都可以
+- 操作系统：Windows、macOS都可以
+- JDK版本：JDK1.8以上都可以
+- 开发工具：IDEA、Ecplise、Myecplise都可以
+- 数据库: MySQL5.7以上都可以
+- Tomcat：任意版本都可以
+- Maven：任意版本都可以
 
 *****************************************************
 
